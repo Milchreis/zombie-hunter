@@ -3,6 +3,8 @@ After nightfall, the undead take over the city and no one is safe from them anym
 
 Help him make the city safer and destroy as many zombies as possible. But beware of the slippery roofs. A fall into the depths will kill you.
 
+![alt demo](https://github.com/Milchreis/zombie-hunter/raw/master/screencast.gif)
+
 ## What is it?
 Zombie Hunter is a classic retro-look platformer game. It requires skill and timing and can be played ideally in between. Currently it is still in an early stage of development. Interesting features are planned for the future :-)
 
