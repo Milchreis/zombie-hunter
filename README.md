@@ -5,6 +5,8 @@ Help him make the city safer and destroy as many zombies as possible. But beware
 
 ![alt demo](https://github.com/Milchreis/zombie-hunter/raw/master/screencast.gif)
 
+[Play it here](https://milchreis.github.io/zombie-hunter/)
+
 ## What is it?
 Zombie Hunter is a classic retro-look platformer game. It requires skill and timing and can be played ideally in between. Currently it is still in an early stage of development. Interesting features are planned for the future :-)
 
