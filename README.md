@@ -3,7 +3,9 @@ After nightfall, the undead take over the city and no one is safe from them anym
 
 Help him make the city safer and destroy as many zombies as possible. But beware of the slippery roofs. A fall into the depths will kill you.
 
-![alt demo](https://github.com/Milchreis/zombie-hunter/raw/master/screencast.gif)
+<p align="center">
+  <img src="https://github.com/Milchreis/zombie-hunter/raw/master/screencast.gif" />
+</p>
 
 [Play it here](https://milchreis.github.io/zombie-hunter/)
 
